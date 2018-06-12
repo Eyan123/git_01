@@ -8,5 +8,6 @@
 </head>
 <body>
 	Input 입니다.
+	by 임동철
 </body>
 </html>
